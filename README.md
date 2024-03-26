@@ -16,7 +16,7 @@ CONST JULI = {
   frontend: ["HTML", "Javascript", "Angular", "CSS", "TypeScript"],
   database: ["Postgresql", "mySQL"],
   "cloud-server": ["AWS"],
-  tools: ["VSCode", "Git", ],
+  tools: ["VSCode", "Git"],
 }
 ```
 <br>
