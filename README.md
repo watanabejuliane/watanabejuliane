@@ -2,8 +2,8 @@
 <hr>
 
 - 🗻 Atualmente moro no Japão
-- 💻 Iniciante nos estudos de Desenvolvimento Web
 - 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Iniciante nos estudos de Desenvolvimento Web
 - 🎀 Apaixonada por fotografia analógica, moda, culinária, gatos e hamsters
 <hr>
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>Um pouco mais sobre mim... </b> </em>
