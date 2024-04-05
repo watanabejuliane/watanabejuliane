@@ -6,8 +6,9 @@
 - 💻 Iniciante nos estudos de Desenvolvimento Web
 - 🎀 Apaixonada por fotografia analógica, moda, culinária, gatos e hamsters
 <hr>
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>Um pouco mais sobre mim... </b> </em>
- <br><br>
+ <img align="left"  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
+ <div align="left"><em><b> Um pouco mais sobre mim e o que estou aprendendo... </b> </em></div>
+ <br>
 
 ```ruby
 CONST JULI = {
@@ -21,9 +22,14 @@ CONST JULI = {
 ```
 <br>
 <hr>
+<h3 align="left">Conecte-se comigo:</h3>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Juliane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliane-watanabe-b-mendes-37833a263/)](https://www.linkedin.com/in/juliane-watanabe-b-mendes-37833a263/)   [![Gmail Badge](https://img.shields.io/badge/-watanabejuliane1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:watanabejuliane1@gmail.com)](mailto:watanabejuliane1@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:watanabejuliane1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/juliane-watanabe-b-mendes-37833a263/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lilas.tv/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://youtube.com/@Lilas_TV?si=TDMeeYZ7cqUX9Bs-)
 
+<h3 align="left">GitHub Stats:</h3>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=watanabejuliane&show_icons=true&theme=tokyonight"
@@ -35,3 +41,11 @@ CONST JULI = {
   />
   <img src="https://github-readme-stats.vercel.app/api?username=watanabejuliane&show_icons=true" />
 </picture>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
