@@ -15,7 +15,7 @@ CONST JULI = {
   pronouns: "She" | "Her",
   backend: ["Python", "Java", "C#"],
   frontend: ["HTML", "Javascript", "Angular", "CSS", "TypeScript"],
-  database: ["Postgresql", "mySQL"],
+  database: ["NoSQL", "mySQL"],
   "cloud-server": ["AWS"],
   tools: ["VSCode", "Git"],
 }
