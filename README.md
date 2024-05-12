@@ -13,8 +13,8 @@
 ```ruby
 CONST JULI = {
   pronouns: "She" | "Her",
-  backend: ["Python", "Java", "C#"],
-  frontend: ["HTML", "Javascript", "Angular", "CSS", "TypeScript"],
+  backend: ["Python", "Java"],
+  frontend: ["HTML", "CSS", "Javascript", "Angular", "TypeScript"],
   database: ["NoSQL", "mySQL"],
   "cloud-server": ["AWS"],
   tools: ["VSCode", "Git"],
