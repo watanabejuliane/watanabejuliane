@@ -1,20 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A79BF7&background=5F54FF00&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Juliane!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F2DFF&random=false&width=435&lines=%3C+hello+world%2C+my+name+is+Juliane+%3E)](https://git.io/typing-svg)
 <hr>
 
-- 🗻 Atualmente moro no Japão
-- 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Iniciante nos estudos de Desenvolvimento Web
-- 🎀 Apaixonada por fotografia analógica, moda, culinária, gatos e hamsters
+- 🗻 Currently living in Japan;
+- 👩🏻‍🎓 Pursuing a Bachelor's degree in Software Engineering (expected graduation: 2027);
+- 💻 Engaging in an immersive Full Stack Development study program;
+- 🎀 Passionate about analog photography, fashion, cooking, cats, and hamsters.
 <hr>
  <img align="left"  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
- <div align="left"><em><b> Um pouco mais sobre mim e o que estou aprendendo... </b> </em></div>
+ <div align="left"><em><b> A little more about me and what I am currently learning: </b> </em></div>
  <br>
 
 ```ruby
 CONST JULI = {
   pronouns: "She" | "Her",
   backend: ["Python", "Java"],
-  frontend: ["HTML", "CSS", "Javascript", "Angular", "TypeScript"],
+  frontend: ["HTML", "CSS", "Javascript", "Angular", "React"],
   database: ["NoSQL", "mySQL"],
   "cloud-server": ["AWS"],
   tools: ["VSCode", "Git"],
