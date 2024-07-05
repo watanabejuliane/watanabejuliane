@@ -2,7 +2,7 @@
 <hr>
 
 - 🗻 Currently living in Japan;
-- 👩🏻‍🎓 Pursuing a Bachelor's degree in Computer Science (expected graduation: 2027);
+- 👩🏻‍🎓 Pursuing a Bachelor's degree in Software Engineering (expected graduation: 2027);
 - 💻 Engaging in an immersive Full Stack Development study program;
 - 🎀 Passionate about analog photography, fashion, cooking, cats, and hamsters.
 <hr>
