@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F2DFF&random=false&width=435&lines=%3C+hello+world%2C+my+name+is+Juliane+%3E)](https://git.io/typing-svg)
 <hr>
 
-- 🗻 Currently living in Japan;
+- 🇯🇵 Currently living in Japan;
 - 👩🏻‍🎓 Pursuing a Bachelor's degree in Software Engineering (expected graduation: 2027);
-- 💻 Engaging in an immersive Full Stack Development study program;
+- 💻 Engaging in an immersive Data Science study program;
 - 🎀 Passionate about analog photography, fashion, cooking, cats, and hamsters.
 <hr>
  <img align="left"  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
@@ -11,14 +11,14 @@
  <br>
 
 ```ruby
-CONST JULI = {
-  pronouns: "She" | "Her",
-  languages: ["Portuguese", "English", "Japanese"],
-  backend: ["Python", "Java"],
-  frontend: ["HTML", "CSS", "Javascript", "Angular", "React"],
-  database: ["NoSQL", "mySQL"],
-  "cloud-server": ["AWS"],
-  tools: ["VSCode", "Git"],
+JULI = {
+    "pronouns": ["She", "Her"],
+    "languages": ["Portuguese", "English", "Japanese"],
+    "backend": ["Python", "Java"],
+    "frontend": ["HTML/CSS", "Javascript", "Angular"],
+    "database": ["SQL Server", "mySQL"],
+    "cloud_server": ["AWS"],
+    "tools": ["VSCode", "Git"]
 }
 ```
 <br>
@@ -26,9 +26,9 @@ CONST JULI = {
 <h3 align="left">Connect with me:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:watanabejuliane1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/juliane-watanabe-b-mendes-37833a263/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lilas.tv/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://youtube.com/@Lilas_TV?si=TDMeeYZ7cqUX9Bs-)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/juliane-watanabe/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lilaaaaassss/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://youtube.com/@Lilas_TV/)
 
 <h3 align="left">GitHub Stats:</h3>
 
