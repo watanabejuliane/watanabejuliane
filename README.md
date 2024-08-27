@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F2DFF&random=false&width=435&lines=%3C+hello+world%2C+my+name+is+Juliane+%3E)](https://git.io/typing-svg)
 <hr>
 
-- 🇯🇵 Currently living in Japan;
+- ⛩️ Currently living in Japan;
 - 👩🏻‍🎓 Pursuing a Bachelor's degree in Software Engineering (expected graduation: 2027);
-- 💻 Engaging in an immersive Data Science study program;
+- 💻 Studying front-end development
 - 🎀 Passionate about analog photography, fashion, cooking, cats, and hamsters.
 <hr>
  <img align="left"  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
@@ -16,7 +16,7 @@ JULI = {
     "languages": ["Portuguese", "English", "Japanese"],
     "backend": ["Python", "Java"],
     "frontend": ["HTML/CSS", "Javascript", "Angular"],
-    "database": ["SQL Server", "mySQL"],
+    "database": ["SQL Server"],
     "cloud_server": ["AWS"],
     "tools": ["VSCode", "Git"]
 }
