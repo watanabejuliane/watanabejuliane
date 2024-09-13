@@ -14,7 +14,7 @@
 JULI = {
     "pronouns": ["She", "Her"],
     "languages": ["Portuguese", "English", "Japanese"],
-    "backend": ["Node.js"],
+    "backend": ["Node.js", "Python"],
     "frontend": ["HTML/CSS", "Javascript", "Angular"],
     "database": ["SQL Server"],
     "cloud_server": ["AWS"],
