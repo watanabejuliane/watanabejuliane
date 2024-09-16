@@ -10,16 +10,16 @@
  <div align="left"><em><b> A little more about me and what I am currently learning: </b> </em></div>
  <br>
 
-```ruby
-JULI = {
-    "pronouns": ["She", "Her"],
-    "languages": ["Portuguese", "English", "Japanese"],
-    "backend": ["Node.js", "Python"],
-    "frontend": ["CSS", "Javascript", "React", "Vue.js"],
-    "database": ["SQL Server"],
-    "cloud_server": ["AWS"],
-    "tools": ["VSCode", "Git"]
-}
+```javascript
+const JULI = {
+    pronouns: ["She", "Her"],
+    languages: ["Portuguese", "English", "Japanese"],
+    backend: ["Node.js", "Python"],
+    frontend: ["CSS", "JavaScript", "React", "Vue.js"],
+    database: ["SQL Server"],
+    cloud_server: ["AWS"],
+    tools: ["VSCode", "Git"]
+};
 ```
 <br>
 <hr>
