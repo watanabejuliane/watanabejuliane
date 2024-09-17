@@ -16,7 +16,7 @@ const JULI = {
     languages: ["Portuguese", "English", "Japanese"],
     backend: ["Node.js", "Python"],
     frontend: ["CSS", "JavaScript", "React", "Vue.js"],
-    database: ["SQL Server"],
+    database: ["SQLite", "MySQL"],
     cloud_server: ["AWS"],
     tools: ["VSCode", "Git"]
 };
