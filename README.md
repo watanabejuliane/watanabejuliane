@@ -15,7 +15,7 @@ const JULI = {
     pronouns: ["She", "Her"],
     languages: ["Portuguese", "English", "Japanese"],
     backend: ["Node.js", "Python"],
-    frontend: ["CSS", "JavaScript", "React", "Vue.js"],
+    frontend: ["CSS", "React", "Angular", "Vue.js"],
     database: ["SQLite", "MySQL"],
     cloud_server: ["AWS"],
     tools: ["VSCode", "Git"]
