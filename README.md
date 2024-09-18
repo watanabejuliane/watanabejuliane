@@ -3,7 +3,7 @@
 
 - ⛩️ Currently living in Japan;
 - 👩🏻‍🎓 Pursuing a Bachelor's degree in Software Engineering (expected graduation: 2027);
-- 💻 Studying front-end development
+- 💻 Studying full-sttack development
 - 🎀 Passionate about analog photography, fashion, cooking, cats, and hamsters.
 <hr>
  <img align="left"  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
